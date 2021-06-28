@@ -1,4 +1,5 @@
-# ddPn DAZE☆  
+# ddPn DAZE☆ 
+Biginner coder  
 javascript & java  
 minecraft bukkit BungeeCord...  
 ## My Minecraft Server  
