@@ -1,5 +1,5 @@
 # ddPn DESU   
-Biginner coder  
+Beginner coder  
 javascript & java  
 minecraft bukkit BungeeCord...  
 ## My Minecraft Server  
