@@ -1,0 +1,37 @@
+/* switch */
+.toggle_switch {
+    display: inline-block;
+    font-size: 20px;
+    align-items: center;
+    margin: 0 !important;
+}
+.toggle_switch > input {
+    display: none;
+}
+.toggle_switch > label {
+    display: block;
+    position: relative;
+    width: 1.8em;
+    height: 1em;
+    border-radius: 1em;
+    background-color: rgb(200, 200, 200);
+    cursor: pointer;
+    transition: 0.25s;
+}
+.toggle_switch > input:checked + label {
+    background-color: rgb(80, 80, 80);
+}
+.toggle_switch > label::before {
+    position: absolute;
+    top: 0.05em;
+    left: 0.05em;
+    width: calc(1em - 0.1em);
+    height: calc(1em - 0.1em);
+    border-radius: calc(1em - 0.1em);
+    background-color: #fff;
+    transition: 0.5s;
+    content: "";
+}
+.toggle_switch > input:checked + label::before {
+    left: calc(100% - 1em + 0.05em);
+}
