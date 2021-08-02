@@ -3,7 +3,7 @@ Beginner coder
 javascript & java  
 minecraft bukkit BungeeCord...  
 ## My Minecraft Server  
-https://site.pyn-server.com  
+https://site.sasadd.net    
 
 ## My Status  
 
