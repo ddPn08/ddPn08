@@ -1,9 +1,17 @@
 # ddPn DAYO  
-Beginner coder  
-javascript & java  
-minecraft bukkit BungeeCord...  
+Beginner coder   
+
+## できること  
+* Java (主にBukkitPlugin & BungeeCordPlugin)
+* JavaScript && TypeScript
+  * electron
+  * nuxtjs
+  * その他もろもろ
+* Linux (RedHat系おんりー)
+* Minecraftサーバー管理
+
 ## My Minecraft Server  
-https://site.sasadd.net    
+https://site.sasadd.net 
 
 ## My Status  
 
