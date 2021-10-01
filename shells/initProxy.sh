@@ -60,7 +60,7 @@ EOL
 #
 
 upstream MC_BE {
-    server 202.213.147.59:19132;
+    server :19132;
 }
 
 server {
@@ -72,7 +72,7 @@ server {
 
 
 upstream MC_Java {
-    server 202.213.147.59:25565;
+    server :25565;
 }
 
 server {
