@@ -17,5 +17,4 @@ https://site.sasadd.net
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ddPn08&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddPn08&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ddPn08)](https://github.com/anuraghazra/github-readme-stats)
 
