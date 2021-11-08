@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T07:28:11.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="zf8ftvfc-IQ1hfB8ZYaE" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T09:47:38.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="cjwUs-U_YbWA9LHWfUu5" version="15.5.8" type="github">
   <diagram id="rWcZh6P6uDhAHx6tPGwv" name="ページ1">
-    <mxGraphModel dx="981" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2858" dy="996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="p9PY-Ntl-1QUSFFHy-GA-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Georgia;fontSize=20;startArrow=box;startFill=0;endArrow=box;endFill=0;strokeColor=#CC0000;strokeWidth=2.5;" edge="1" parent="1" source="p9PY-Ntl-1QUSFFHy-GA-18" target="p9PY-Ntl-1QUSFFHy-GA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PY-Ntl-1QUSFFHy-GA-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=20;startArrow=box;startFill=0;endArrow=box;endFill=0;strokeWidth=2.5;shadow=0;fillColor=#f8cecc;strokeColor=#CC0000;" edge="1" parent="1" source="p9PY-Ntl-1QUSFFHy-GA-31" target="p9PY-Ntl-1QUSFFHy-GA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p9PY-Ntl-1QUSFFHy-GA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Georgia;fontSize=20;strokeWidth=2.5;startArrow=box;startFill=0;endArrow=box;endFill=0;" edge="1" parent="1" source="p9PY-Ntl-1QUSFFHy-GA-1" target="p9PY-Ntl-1QUSFFHy-GA-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -11,7 +17,7 @@
           <mxGeometry x="200" y="40" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="p9PY-Ntl-1QUSFFHy-GA-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;fillColor=none;arcSize=3;" vertex="1" parent="1">
-          <mxGeometry x="120" y="240" width="800" height="440" as="geometry" />
+          <mxGeometry x="120" y="240" width="1120" height="720" as="geometry" />
         </mxCell>
         <mxCell id="p9PY-Ntl-1QUSFFHy-GA-6" value="&lt;font face=&quot;Zen Maru Gothic&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;自宅&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="240" width="80" height="40" as="geometry" />
@@ -31,7 +37,7 @@
           <mxGeometry x="240" y="280" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p9PY-Ntl-1QUSFFHy-GA-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=20;strokeWidth=2.5;fillColor=none;arcSize=3;" vertex="1" parent="1">
-          <mxGeometry x="400" y="280" width="480" height="360" as="geometry" />
+          <mxGeometry x="400" y="280" width="800" height="640" as="geometry" />
         </mxCell>
         <mxCell id="p9PY-Ntl-1QUSFFHy-GA-12" value="&lt;font face=&quot;Zen Maru Gothic&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;サーバー&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="90" height="20" as="geometry" />
@@ -48,17 +54,35 @@
         <mxCell id="p9PY-Ntl-1QUSFFHy-GA-19" value="&lt;font face=&quot;Zen Maru Gothic&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Firewall&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="320" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="p9PY-Ntl-1QUSFFHy-GA-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=20;startArrow=box;startFill=0;endArrow=box;endFill=0;strokeWidth=2.5;" edge="1" parent="1" source="p9PY-Ntl-1QUSFFHy-GA-20" target="p9PY-Ntl-1QUSFFHy-GA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PY-Ntl-1QUSFFHy-GA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Georgia;fontSize=20;startArrow=box;startFill=0;endArrow=box;endFill=0;strokeWidth=2.5;" edge="1" parent="1" source="p9PY-Ntl-1QUSFFHy-GA-20" target="p9PY-Ntl-1QUSFFHy-GA-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p9PY-Ntl-1QUSFFHy-GA-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=20;strokeWidth=2.5;fillColor=none;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="600" y="320" width="200" height="80" as="geometry" />
+          <mxGeometry x="640" y="420" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p9PY-Ntl-1QUSFFHy-GA-21" value="&lt;font face=&quot;Zen Maru Gothic&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;BungeeCord&lt;br&gt;0.0.0.0:25565&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="335" width="120" height="50" as="geometry" />
+          <mxGeometry x="680" y="435" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p9PY-Ntl-1QUSFFHy-GA-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=20;strokeWidth=2.5;fillColor=none;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="600" y="480" width="200" height="110" as="geometry" />
+          <mxGeometry x="640" y="580" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="p9PY-Ntl-1QUSFFHy-GA-25" value="&lt;font face=&quot;Zen Maru Gothic&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Minecraft Server&lt;br&gt;0.0.0.0:25565&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="625" y="510" width="150" height="50" as="geometry" />
+        <mxCell id="p9PY-Ntl-1QUSFFHy-GA-25" value="&lt;font face=&quot;Zen Maru Gothic&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Minecraft Server&lt;br&gt;0.0.0.0:8080&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="665" y="610" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PY-Ntl-1QUSFFHy-GA-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=20;strokeWidth=2.5;fillColor=none;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="880" y="580" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PY-Ntl-1QUSFFHy-GA-29" value="&lt;font face=&quot;Zen Maru Gothic&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Minecraft Server 2&lt;br&gt;0.0.0.0:8081&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="897.5" y="610" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PY-Ntl-1QUSFFHy-GA-31" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;fillColor=none;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="40" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PY-Ntl-1QUSFFHy-GA-32" value="&lt;font face=&quot;Zen Maru Gothic&quot;&gt;&lt;b&gt;悪いやつ&lt;/b&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Georgia;fontSize=20;strokeWidth=2.5;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="60" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
