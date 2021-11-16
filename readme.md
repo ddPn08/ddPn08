@@ -1,5 +1,10 @@
-# ddPn DAYO  
-Beginner coder   
+# ddPn08  
+nodejsを愛してやまない人  
+あとJavaも書きます  
+github : http://github.com/ddPn08  
+website : http://ddpn.world  
+マイクラ鯖運営中 : @sasadd_mc  
+東方&ピアノ大好き  
 
 ## できること  
 * Java (主にBukkitPlugin & BungeeCordPlugin)
@@ -15,9 +20,6 @@ https://site.sasadd.net
 
 ## My Status  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ddPn08&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddPn08&layout=compact" />
-</a>
+[![github stats](https://github-readme-stats.vercel.app/api?username=ddPn08&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddPn08&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
