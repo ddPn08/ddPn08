@@ -6,15 +6,6 @@ website : http://ddpn.world
 マイクラ鯖運営中 : @sasadd_mc  
 東方&ピアノ大好き  
 
-## できること  
-* Java (主にBukkitPlugin & BungeeCordPlugin)
-* JavaScript && TypeScript
-  * electron
-  * nuxtjs
-  * その他もろもろ
-* Linux (RedHat系おんりー)
-* Minecraftサーバー管理
-
 ## My Minecraft Server  
 https://site.sasadd.net 
 
