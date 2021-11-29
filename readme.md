@@ -1,10 +1,5 @@
 # ddPn08  
-nodejsを愛してやまない人  
-あとJavaも書きます  
-github : http://github.com/ddPn08  
-website : http://ddpn.world  
-マイクラ鯖運営中 : @sasadd_mc  
-東方&ピアノ大好き  
+dn5
 
 ## My Minecraft Server  
 https://site.sasadd.net 
